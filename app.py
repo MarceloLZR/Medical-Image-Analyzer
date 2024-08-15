@@ -1,8 +1,11 @@
 import streamlit as st
-from pathlib import Path
 import google.generativeai as genai
+from dotenv import load_dotenv
+import os
 
-from api_key import api_key
+load_dotenv()
+
+api_key = os.getenv("api_key")
 
 genai.configure(api_key=api_key)
 
