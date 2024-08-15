@@ -1,1 +1,3 @@
 # Medical-Image-Analyzer
+
+## This project is an useful tool designed to analyze images of diseases and provide detailed diagnostic insights. Leveraging advanced machine learning models through Google's Gemini Pro and a user-friendly interface built with Streamlit, the tool processes and interprets visual data to identify disease characteristics. It delivers a comprehensive analysis, offering users valuable information on the potential diagnosis and severity of the condition. This application stands out for its seamless integration of cutting-edge AI technology with an intuitive design, making it a powerful resource for both medical professionals and individuals seeking reliable health assessments.
